@@ -1,0 +1,103 @@
+#body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.header
+{
+	display: flex;
+	padding: 0px;
+	background-color: lightyellow;
+}
+
+.title
+{
+	width: 60%;
+	padding: 30px;
+	background-color: green;
+}
+
+.list
+{
+	width: 40%;
+	padding: 30px;
+	background-color: darkgreen;
+}
+
+.navbar
+{
+	background-color: black;
+	height: 35px;
+	width: 100%;
+	padding: 1px;
+	display: flex;
+}
+
+.navbar a
+{
+	text-decoration: none;
+	color: white;
+	padding-bottom: 15px;
+	padding-left: 169px;
+	padding-right: 169px;
+}
+
+
+.navbar a:hover
+{
+	color: black;
+	background-color: white;
+}
+
+.content
+{
+	display: flex;
+	margin: 0px;
+}
+
+.col1
+{
+	background-color: lightgreen;
+	padding: 30px;
+	width: 33.33%;
+}
+
+.col1 img
+{
+	height: 100%;
+	width: 100%;
+}
+
+.col2
+{
+	padding: 20px;
+	width: 33.33%;
+	background-color: lightyellow;
+}
+
+.col3
+{
+	padding: 40px;
+	width: 33.33%;
+	background-color: lightgreen;
+}
+
+.rr
+{
+	height: 50%;
+	padding: 10px;
+}
+
+.footer
+{
+	background-color: black;
+	padding: 30px;
+}
+
+.footer p
+{
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
